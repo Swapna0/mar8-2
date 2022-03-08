@@ -1,0 +1,8 @@
+x=input()
+y=input()
+c=x+y
+print(c)
+output:-
+arya
+chinttu
+aryachinttu
